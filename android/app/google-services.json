@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "651306497508",
+    "firebase_url": "https://loginpage-22c8d.firebaseio.com",
+    "project_id": "loginpage-22c8d",
+    "storage_bucket": "loginpage-22c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651306497508:android:bdfa465cf9f368011383f1",
+        "android_client_info": {
+          "package_name": "com.example.fluttergooglesigninapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651306497508-kme5ihd4sega542bqdd8abv209fdrm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWBO_-KZ2a8u8mgY3Taed9YYGLtr_nLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651306497508-kme5ihd4sega542bqdd8abv209fdrm7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651306497508:android:2499a1a6989fb1061383f1",
+        "android_client_info": {
+          "package_name": "com.example.loginpageflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651306497508-kme5ihd4sega542bqdd8abv209fdrm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrWBO_-KZ2a8u8mgY3Taed9YYGLtr_nLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651306497508-kme5ihd4sega542bqdd8abv209fdrm7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
