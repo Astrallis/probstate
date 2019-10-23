@@ -1,3 +1,6 @@
 [submodule "pedometer_app"]
 	path = pedometer_app
 	url = https://github.com/akshaykumaru18/Pedometer-Flutter.git
+[submodule "Pedometer-Flutter"]
+	path = Pedometer-Flutter
+	url = https://github.com/akshaykumaru18/Pedometer-Flutter.git
