@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:main_app_ft/pages/registrationPage.dart';
 import 'package:main_app_ft/scopedModel/mainModel.dart';
 import 'package:scoped_model/scoped_model.dart';
+import 'pages/login.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -15,15 +16,13 @@ class MyApp extends StatelessWidget {
 
           primarySwatch: Colors.blue,
         ),
-        home: MyHomePage(),
+        home: Login(),
       ),
     );
   }
 }
 
 class MyHomePage extends StatefulWidget {
-
-
 
 
   @override
